@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Cpp {
+  text-align: center;
+  margin-top: 50px;
+  display: flex;
+}
+
+select {
+  margin: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+label {
+  font-size: 18px;
+  margin-right: 10px;
+}
